@@ -23,7 +23,7 @@
     has 2 parameters called "value1" and "value2".
 -------------------------------------------------- */
 
-function math( value1, value2 ) { // <--- Function signature with parameters.
+function math( value1 , value2 ) { // <--- Function signature with parameters.
 
     // Below we use both parameters to calculate the total.
 
