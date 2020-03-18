@@ -56,17 +56,17 @@ if ( animal == "Tiger" ) {
     - One value is less than or equals the other: <=
 -------------------------------------------------- */
 
-if ( animal == "tiger" ) {
+if ( animal == "monkey" ) {
 
-    console.log( "intimidating" );
+    console.log( "WHAT?" );
 
 } else if ( animal == "panda" ) {
 
     console.log( "cute" );
 
-} else if ( animal == "chimp" ) {
+} else if ( animal == "tiger" ) {
 
-    console.log( "meh" );
+    console.log( "intimidating" );
 
 } else {
 
@@ -99,7 +99,7 @@ if ( animal == "tiger" ) {
 
 if ( animal == "panda" || animal == "koala" ) {
 
-    console.log( "cute" );
+    console.log( "fluffy" );
 
 } else if ( animal == "tiger" && type == "cub" ) {
 
@@ -107,5 +107,5 @@ if ( animal == "panda" || animal == "koala" ) {
 
 } else {
 
-    console.log( "meh" );
+    console.log( "...." );
 }

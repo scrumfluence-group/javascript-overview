@@ -25,7 +25,7 @@ company = "Scrumfluence";
     assigned to them in a single statment.
 -------------------------------------------------- */
 
-let jobTitle = "Junior Software Developer";
+let jobTitle = "Business Analyst";
 
 
 
